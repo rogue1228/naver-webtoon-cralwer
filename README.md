@@ -20,7 +20,7 @@ Python Imaging Library 이미지 처리 라이브러리 설치
 
 ## remove
 `python3 webtoonCrawlerManager.py remove {titleId}`
-삭제할 {titleId}를 입력합니다.
+삭제할 `titleId`를 입력합니다.
 
 ## crawl
 `python3 webtoonCrawlerManager.py crawl`
