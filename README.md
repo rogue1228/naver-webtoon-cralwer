@@ -2,6 +2,9 @@
 BeautifulSoup4 파싱 라이브러리 설치
 `pip3 install bs4`
 
+lxml 파싱 라이브러리 설치
+`pip3 install lxml`
+
 Python Imaging Library 이미지 처리 라이브러리 설치 
 `pip3 install pillow`
 
