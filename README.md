@@ -13,7 +13,7 @@ Python Imaging Library 이미지 처리 라이브러리 설치
 `python3 webtoonCrawlerManager.py add {titleId}`를 입력합니다.
 
 ## list
-추가한 {titleId} 리스트와 웹툰제목이 리스트로 됩니다.
+추가한 {titleId} 리스트와 웹툰제목이 리스트로 출력 됩니다.
 
 ## remove
 `python3 webtoonCrawlerManager.py remove {titleId}`
